@@ -150,7 +150,7 @@ print(me.motto())
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 <div align="center">
 
